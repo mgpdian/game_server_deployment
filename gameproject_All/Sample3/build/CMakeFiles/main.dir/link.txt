@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/modules/module_a.c.o  -o bin/main -Wl,-rpath,/home/mgpdian/projects/Sample3/build/lib lib/libsample_utils.so 

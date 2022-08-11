@@ -1,0 +1,37 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$5
+lpush
+$9
+game_name
+$7
+da klee
+*3
+$5
+lpush
+$9
+game_name
+$10
+ss 9o98egr
+*4
+$4
+lrem
+$9
+game_name
+$1
+1
+$7
+da klee
+*4
+$4
+lrem
+$9
+game_name
+$1
+1
+$10
+ss 9o98egr

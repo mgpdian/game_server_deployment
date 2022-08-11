@@ -1,0 +1,3 @@
+/home/mgpdian/projects/Sample2/build/CMakeFiles/rebuild_cache.dir
+/home/mgpdian/projects/Sample2/build/CMakeFiles/edit_cache.dir
+/home/mgpdian/projects/Sample2/build/CMakeFiles/main.dir

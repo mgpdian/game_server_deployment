@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libsample_utils.so -o ../lib/libsample_utils.so CMakeFiles/sample_utils.dir/convert.c.o 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mgpdian/projects/Sample3/utils/convert.c
+convert.h
+/home/mgpdian/projects/Sample3/utils/convert.h
+
+/home/mgpdian/projects/Sample3/utils/convert.h
+
